@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SimpleSudukoSolver
+</name>
+</assembly>
+<members>
+<member name="P:Simple_Suduko_Solver.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Simple_Suduko_Solver.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Simple_Suduko_Solver.My.Resources.Resources.Sudoku_Help">
+	<summary>
+  Looks up a localized string similar to {\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Calibri;}{\f1\fnil\fcharset1 Siyam Rupali;}{\f2\fnil\fcharset0 Siyam Rupali;}{\f3\fnil Siyam Rupali;}{\f4\fnil\fcharset2 Symbol;}}
+{\colortbl ;\red155\green0\blue211;\red79\green129\blue189;\red102\green102\blue102;}
+{\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\sa200\sl240\slmult1\cf1\lang9\ul\f0\fs48 Sudoku Solver\fs36\par
+\cf0\lang2117\ulnone\f1\fs20\u2447?\u2439? \u2488?\u2475?\u2463?\u2451?\u2527?\u2494?\u2480? \u2470?\ [rest of string was truncated]";.
+</summary>
+</member><member name="P:Simple_Suduko_Solver.My.Resources.Resources.Tips">
+	<summary>
+  Looks up a localized string similar to {\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Calibri;}{\f1\fnil\fcharset0 Siyam Rupali;}{\f2\fnil\fcharset1 Siyam Rupali;}}
+{\colortbl ;\red0\green77\blue187;\red100\green107\blue134;\red102\green102\blue102;\red79\green129\blue189;}
+{\*\generator Msftedit 5.41.21.2509;}\viewkind4\uc1\pard\sa200\sl276\slmult1\cf1\lang9\ul\f0\fs48 Sudoku Solver \cf2\fs32 Tips\par
+\cf3\lang1033\ulnone\f1\fs24 How to solve and unsolved sudoku\par
+\cf0\lang2117\f2\fs20\u2472?\u2495?\u2458?\u2503?\u2 [rest of string was truncated]";.
+</summary>
+</member><member name="T:Simple_Suduko_Solver.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

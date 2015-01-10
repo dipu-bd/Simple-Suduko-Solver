@@ -1,0 +1,16 @@
+D:\Projects\Software Project\Visual Basic 2008\Simple Suduko Solver\Simple Suduko Solver\bin\Debug\Simple Suduko Solver.exe
+D:\Projects\Software Project\Visual Basic 2008\Simple Suduko Solver\Simple Suduko Solver\bin\Debug\Simple Suduko Solver.pdb
+D:\Projects\Software Project\Visual Basic 2008\Simple Suduko Solver\Simple Suduko Solver\bin\Debug\Simple Suduko Solver.xml
+D:\Projects\Software Project\Visual Basic 2008\Simple Suduko Solver\Simple Suduko Solver\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Software Project\Visual Basic 2008\Simple Suduko Solver\Simple Suduko Solver\obj\Debug\Simple_Suduko_Solver.Form1.resources
+D:\Projects\Software Project\Visual Basic 2008\Simple Suduko Solver\Simple Suduko Solver\obj\Debug\Simple_Suduko_Solver.Resources.resources
+D:\Projects\Software Project\Visual Basic 2008\Simple Suduko Solver\Simple Suduko Solver\obj\Debug\Simple Suduko Solver.vbproj.GenerateResource.Cache
+D:\Projects\Software Project\Visual Basic 2008\Simple Suduko Solver\Simple Suduko Solver\obj\Debug\Simple Suduko Solver.exe
+D:\Projects\Software Project\Visual Basic 2008\Simple Suduko Solver\Simple Suduko Solver\obj\Debug\Simple Suduko Solver.xml
+D:\Projects\Software Project\Visual Basic 2008\Simple Suduko Solver\Simple Suduko Solver\obj\Debug\Simple Suduko Solver.pdb
+D:\Projects\Software Project\Visual Basic 2008\Simple Suduko Solver\Simple Suduko Solver\obj\Debug\Simple_Suduko_Solver.Cells.resources
+D:\Projects\Software Project\Visual Basic 2008\Simple Suduko Solver\Simple Suduko Solver\obj\Debug\Simple_Suduko_Solver.HelpBox.resources
+D:\Projects\Software Project\Visual Basic 2008\Simple Suduko Solver\Simple Suduko Solver\bin\Debug\Simple Suduko Solver.exe.manifest
+D:\Projects\Software Project\Visual Basic 2008\Simple Suduko Solver\Simple Suduko Solver\bin\Debug\Simple Suduko Solver.application
+D:\Projects\Software Project\Visual Basic 2008\Simple Suduko Solver\Simple Suduko Solver\obj\Debug\Simple Suduko Solver.exe.manifest
+D:\Projects\Software Project\Visual Basic 2008\Simple Suduko Solver\Simple Suduko Solver\obj\Debug\Simple Suduko Solver.application
